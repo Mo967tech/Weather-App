@@ -1,6 +1,6 @@
 # weather_app
 
-A new Flutter project.
+Developed a weather app using RESTful Api to fetch real-time weather data implemented dynamic UI updates based on weather conditions
 
 ## Getting Started
 
